@@ -1,0 +1,6 @@
+C:\Users\Cristina\Documents\Projects\drawProgram\drawProgram\obj\x86\Debug\.NETFramework,Version=v4.0.AssemblyAttribute.cs
+C:\Users\Cristina\Documents\Projects\drawProgram\drawProgram\obj\x86\Debug\drawProgram.gtk-gui.gui.stetic
+C:\Users\Cristina\Documents\Projects\drawProgram\drawProgram\bin\Debug\drawProgram.exe.mdb
+C:\Users\Cristina\Documents\Projects\drawProgram\drawProgram\bin\Debug\drawProgram.exe
+C:\Users\Cristina\Documents\Projects\drawProgram\drawProgram\obj\x86\Debug\drawProgram.exe
+C:\Users\Cristina\Documents\Projects\drawProgram\drawProgram\obj\x86\Debug\drawProgram.exe.mdb
